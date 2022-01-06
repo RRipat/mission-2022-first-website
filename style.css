@@ -110,5 +110,14 @@ h1{
 .third-area{
     display: flex;
     width: 100%;
+    padding-top: 50px;
     
+    
+}
+.mission-side1 img{
+    width: 70%;
+
+}
+.mission-side2{
+
 }
